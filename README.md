@@ -1,4 +1,8 @@
-### Hi there 👋
+![Hi there](https://github.com/ZRoger95/ZRoger95/blob/main/header.png?raw=true)
+
+Hi there, 😊
+
+🌱 I’m currently learning Spring Boot and Spring Cloud
 
 <!--
 **ZRoger95/ZRoger95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
